@@ -1,0 +1,15 @@
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\bin\Debug\net7.0\AppClientes.exe
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\bin\Debug\net7.0\AppClientes.deps.json
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\bin\Debug\net7.0\AppClientes.runtimeconfig.json
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\bin\Debug\net7.0\AppClientes.dll
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\bin\Debug\net7.0\AppClientes.pdb
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.csproj.AssemblyReference.cache
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfoInputs.cache
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfo.cs
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.dll
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\refint\AppClientes.dll
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.pdb
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\AppClientes.genruntimeconfig.cache
+C:\Users\thalis.andrade\OneDrive - Rede ANCORA\Thalis Andrade\Codes\CursoDesenvolvedor.io\AppClientes\obj\Debug\net7.0\ref\AppClientes.dll
